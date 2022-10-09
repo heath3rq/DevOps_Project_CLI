@@ -5,7 +5,7 @@ install:
 test:
 	./test.sh
 
-lint:
-	docker run --rm -i hadolint/hadolint < Dockerfile
+container-lint:
+	docker run --rm -i hadolint/hadolint < CLI/Dockerfile
 
 all: install test
