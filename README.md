@@ -2,7 +2,7 @@
 [![Bash Command Line](https://github.com/nogibjj/hq-individual_project2/actions/workflows/manual.yml/badge.svg)](https://github.com/nogibjj/hq-individual_project2/actions/workflows/manual.yml)
 
 ## Data Flow Diagram
-
+![Project2](https://user-images.githubusercontent.com/105904149/194799122-9e32e1e5-548d-437e-8223-afefd998bf8d.png)
 
 ## Project Description
 
