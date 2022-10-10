@@ -1,12 +1,14 @@
 # Project-2-Heather-Qiu
 [![Bash Command Line](https://github.com/nogibjj/hq-individual_project2/actions/workflows/manual.yml/badge.svg)](https://github.com/nogibjj/hq-individual_project2/actions/workflows/manual.yml)
 
-## Data Flow Diagram
-![Project2](https://user-images.githubusercontent.com/105904149/194799122-9e32e1e5-548d-437e-8223-afefd998bf8d.png)
 
 ## Project Description
 
 The project is for IDS 706 Data Engineering class at Duke University. The goal is to build a Bash Command Line tool that performs useful data preparation tasks such as cleaning, truncating, and sorting data. For the scope of this project, I built a Bash Command Line tool that removes empty lines from a CSV file. It then takes user-input column numbers and filters the file rows only if there is a difference between the two columns. I designed the tool in the hope of automating everyday data preparation tasks. The bash script can be easily scaled up to incorporate additional features and will be pushed to Docker Hub for accessibility at a later date. 
+
+
+## Data Flow Diagram
+![Project2](https://user-images.githubusercontent.com/105904149/194799122-9e32e1e5-548d-437e-8223-afefd998bf8d.png)
 
 
 ## Demo Video
