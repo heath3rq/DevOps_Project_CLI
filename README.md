@@ -14,7 +14,7 @@ The project is for IDS 706 Data Engineering class at Duke University. The goal i
 ## Demo Video
 [Project 2 - Heather Qiu - Bash CLI to Clean & Filter Data - Watch Video](https://youtu.be/HH4Cp4VblSE)
 
-For the demo, I used a dataset from NYC Open Data: [(Workforce1 Job Listing)](https://data.cityofnewyork.us/Business/Workforce1-Job-Listing/ay9k-vznm). Out of the 197 rows in the dataset, Only 44 rows are non-blank valid entries. Furthermore, many positions have the same minimum and maximum wages, which are not helpful for exploratory data analysis. Therefore, a function is incorporated to filter valid rows if a difference is identified between the minimum and maximum wages.
+For the demo, I used a dataset from NYC Open Data: [Workforce1 Job Listing](https://data.cityofnewyork.us/Business/Workforce1-Job-Listing/ay9k-vznm). Out of the 197 rows in the dataset, Only 44 rows are non-blank valid entries. Furthermore, many positions have the same minimum and maximum wages, which are not helpful for exploratory data analysis. Therefore, a function is incorporated to filter valid rows if a difference is identified between the minimum and maximum wages.
 
 
 ## Instructions To Use The CLI Tool
