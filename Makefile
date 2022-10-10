@@ -3,7 +3,7 @@ install:
 		pip install -r requirements.txt
 
 test:
-	./test.sh
+	test.sh
 
 container-lint:
 	docker run --rm -i hadolint/hadolint < CLI/Dockerfile
