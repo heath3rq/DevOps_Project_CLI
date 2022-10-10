@@ -1,7 +1,7 @@
 #!/usr/bin/env bash
 
 #build a function to remove empty lines from a csv file
-remove_empty_lines() {
+cleanup_file() {
     #take in the file name and two column numbers - REQUIRED FIELDS
     FILENAME=$1
     col1=$2
@@ -17,4 +17,4 @@ remove_empty_lines() {
     ## sed '/^[\s,]*$/d' $FILENAME | awk 'BEGIN{FS=OFS=","}{if ($'$col1' - $'$col2' != 0) print NR, $0}' > data_final.csv
 }
 
-remove_empty_lines $1 $2 $3
+cleanup_file $1 $2 $3
