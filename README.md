@@ -1,4 +1,3 @@
-# Project-2-Heather-Qiu
 [![Bash Command Line](https://github.com/nogibjj/hq-individual_project2/actions/workflows/manual.yml/badge.svg)](https://github.com/nogibjj/hq-individual_project2/actions/workflows/manual.yml)
 
 
