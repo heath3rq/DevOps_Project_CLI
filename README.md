@@ -3,7 +3,7 @@
 
 ## Project Description
 
-The project is for IDS 706 Data Engineering class at Duke University. The goal is to build a Bash Command Line tool that performs useful data preparation tasks such as cleaning, truncating, and sorting data. For the scope of this project, I built a Bash Command Line tool that removes empty lines from a CSV file. It then filters the file by detecting differences between the user-specified columns and only returns rows with a difference. I designed the tool in the hope of automating everyday data preparation tasks. The bash script can be easily scaled up to incorporate additional features and will be pushed to Docker Hub for accessibility at a later date. 
+The project is done for IDS 706 Data Engineering class at Duke University. The goal is to build a Bash Command Line tool that performs useful data preparation tasks such as cleaning, truncating, and sorting data. For the scope of this project, I built a Bash Command Line tool that removes empty lines from a CSV file. It then filters the file by detecting differences between the user-specified columns and only returns rows with a difference. I designed the tool in the hope of automating everyday data preparation tasks. The bash script can be easily scaled up to incorporate additional features and will be pushed to Docker Hub for accessibility at a later date. 
 
 
 ## Data Flow Diagram
